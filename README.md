@@ -11,3 +11,5 @@ This line is added for an initial commit.
 I like playing badminton, tennis and swimming.
 
 I also like snowboarding in the winter.
+
+But I don't like English. I don't have any talent in learning any language.
