@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 We insert another line for testing.
 
 This line is added for an initial commit.
+
+I like playing badminton, tennis and swimming.
